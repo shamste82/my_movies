@@ -7,7 +7,6 @@ and movie information collected from [omdb](http://www.omdbapi.com/)
 (open source movie database) api. 
 
 ### Installation ###
-***
 
  * Clone the GitHub repository `git clone https://github.com/shamste82/my_movies`
  * Download [Python](https://www.python.org/downloads/) if it's not 

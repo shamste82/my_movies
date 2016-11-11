@@ -14,7 +14,7 @@ and movie information collected from [omdb](http://www.omdbapi.com/)
    already installed.
  * Run the file entertainment_center.py from your terminal/command shell
    with the command `python entertainment_center.py`
- * You can add movies in the entertainment.py file. Please read the
+ * You can add movies in the `entertainment_center.py` file. Please read the
    comments on how to do so inside the file.
    
 ***
